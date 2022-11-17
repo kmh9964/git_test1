@@ -1,0 +1,19 @@
+# 전송하지 않을 파일 목록들
+
+# 1.문서 파일
+*.hwp
+*.xls
+
+# 2. 이미지 파일
+*.png
+*.jpg
+*.gif
+
+# 3.비디오 파일
+*.mp4
+*.avi
+
+# 4. 특정 폴더
+downloads/
+attachments/
+pdf/
